@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/react2022/static/css/main.f4cc8929.css",
-    "main.js": "/.github.io/react2022/static/js/main.4fbc6b86.js",
-    "index.html": "/.github.io/react2022/index.html",
-    "main.f4cc8929.css.map": "/.github.io/react2022/static/css/main.f4cc8929.css.map",
-    "main.4fbc6b86.js.map": "/.github.io/react2022/static/js/main.4fbc6b86.js.map"
+    "main.css": "/react2022/static/css/main.f4cc8929.css",
+    "main.js": "/react2022/static/js/main.4fbc6b86.js",
+    "index.html": "/react2022/index.html",
+    "main.f4cc8929.css.map": "/react2022/static/css/main.f4cc8929.css.map",
+    "main.4fbc6b86.js.map": "/react2022/static/js/main.4fbc6b86.js.map"
   },
   "entrypoints": [
     "static/css/main.f4cc8929.css",
